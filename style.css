@@ -1,0 +1,45 @@
+body{
+  background-color: black;
+}
+
+
+.logodef{
+
+  width: 10vw;
+}
+
+.jumbotron{
+background-image: url(img/def1.png);
+background-size: cover;
+height: 490px;
+}
+
+.espacio{
+
+  height: 543px;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  background-color: white;
+
+}
+
+.margin{
+  height: auto;
+}
+
+
+.estilo{
+  background-color: grey;
+  text-align: center;
+}
+
+.tamaño img{
+  width: 200px;
+}
+
+.modif{
+  position: absolute;
+}
